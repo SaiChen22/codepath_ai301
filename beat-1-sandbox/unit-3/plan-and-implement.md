@@ -19,7 +19,7 @@ SaiChen22
 
 **Plan comment**
 
-https://github.com/codepath/pathreview-ai301-fa26-s1/issues/72#issuecomment-3356064974
+https://github.com/codepath/pathreview-ai301-fa26-s1/issues/72#issuecomment-5924439060
 
 I have reproduced the issue and put together a plan to ensure `verify_password` fails closed on malformed hashes:
 
